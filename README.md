@@ -8,4 +8,4 @@
 
 #### Design patterns:
 
-[PHP design patterns](https://github.com/ettorestark?tab=repositories&q=php%20kata&type=&language=&sort=)
+[PHP design patterns](https://github.com/ettorestark?tab=repositories&q=php+design+pattern&type=&language=&sort=)
