@@ -10,8 +10,8 @@
 
 [PHP design patterns](https://github.com/ettorestark?tab=repositories&q=php+design+pattern&type=&language=&sort=)
 
-#### Worksapce settings:
+#### 💻 Workspace settings:
 
-[VIM](#)
+[VIM settings](#)
 
-[I3](#)
+[I3 settings](#)
