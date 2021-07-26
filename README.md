@@ -12,6 +12,6 @@
 
 #### 💻 Workspace settings:
 
-[VIM settings](#)
+[NVIM settings](https://github.com/ettorestark/nvim-settings)
 
 [I3 settings](#)
