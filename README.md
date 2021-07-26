@@ -9,3 +9,9 @@
 #### Design patterns:
 
 [PHP design patterns](https://github.com/ettorestark?tab=repositories&q=php+design+pattern&type=&language=&sort=)
+
+#### Worksapce settings:
+
+[VIM](#)
+
+[I3](#)
