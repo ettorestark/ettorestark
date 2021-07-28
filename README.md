@@ -14,4 +14,4 @@
 
 [NVIM settings](https://github.com/ettorestark/nvim-settings)
 
-[I3 settings](#)
+[I3 settings](# )
