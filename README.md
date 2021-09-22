@@ -1,7 +1,10 @@
-# Hi, I'm Ettore Stark
 
-[![Twitter: ThaiiBraga](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter: ThaiiBraga](https://img.shields.io/badge/ettorestark-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+<h2>Hi, I'm Ettore Stark
+<p><em>Software Developer at <a href="https://vexsoluciones.com/">Vex Soluciones</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: ThaiiBraga](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettorestark/)
+[![Twitter: ThaiiBraga](https://img.shields.io/badge/ettorestark-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ettorestark/)
 
 
 
@@ -33,5 +36,3 @@ const ettore = {
 
 ## Code Katas
 - [PHP Code Katas](https://github.com/ettorestark?tab=repositories&q=php+design+pattern&type=&language=&sort=)
-
-## Stats
