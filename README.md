@@ -1,6 +1,6 @@
 
 # Hi, I'm Ettore Stark
-Software Developer at [Vex Soluciones](https://vexsoluciones.com)
+Software Developer at [Genium](https://genium.io)
 
 [![Twitter: ThaiiBraga](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettorestark/)
 [![Twitter: ThaiiBraga](https://img.shields.io/badge/ettorestark-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ettorestark/)
