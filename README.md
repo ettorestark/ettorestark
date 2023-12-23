@@ -1,6 +1,6 @@
 
 # Hi, I'm Ettore Stark
-Software Developer at [Genium](https://genium.io)
+Software Developer at [Apple](https://apple.com) via [TCS](https://tcs.com)
 
 [![Twitter: ThaiiBraga](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettorestark/)
 [![Twitter: ThaiiBraga](https://img.shields.io/badge/ettorestark-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ettorestark/)
@@ -21,7 +21,7 @@ const ettore = {
         devOps: ["AWS", "Digital Ocean", "Docker🐳", "Jenkins"],
         databases: ["MongoDB", "MySQL", "Postgres"],
         misc: ["Firebase", "Socket.IO", "RabbitMQ"]
-    },
+    },Gjjkkju
     architecture: [
 	    "Layered architecture", "Event-driven architecture", "Microservices architecture" 
     ],
@@ -29,9 +29,3 @@ const ettore = {
 };
 ```
 
-## Workspace settings
-- [NVIM Settings](https://github.com/ettorestark/nvim-settings)
-- [I3 Settings]()
-
-## Code Katas
-- [PHP Code Katas](https://github.com/ettorestark?tab=repositories&q=php+design+pattern&type=&language=&sort=)
